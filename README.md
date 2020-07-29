@@ -1,15 +1,15 @@
 # 100DaysOfCSharp
 
-This is intended to be an open-source learning platform for everyone who wants to master C#. The idea has born from the twitter community, and the `#100DaysOfCode` initiative. Since the initiative became focused mostly on front-end and JavaScript, we wanted to create its alternative for the .NET (C# specifically). The `#100DaysOfCode` hashtag would be a meeting point for all developers (newbie or not) who want to share knowledge, tips, resources or information of their journey in mastering C#.
+This is intended to be an open-source learning platform for everyone who wants to master C#. The idea is born from the twitter community, and the `#100DaysOfCode` initiative. Since the initiative became focused mostly on front-end and JavaScript, we wanted to create its alternative for the .NET (C# specifically). The `#100DaysOfCode` hashtag would be a meeting point for all developers (newbie or not) who want to share knowledge, tips, resources or information about their journey in mastering C#.
 
-This repository is created to support that idea, and should offer collection of resources, tutorials and project samples for each corresponding topic. We plan to divide the material into 100 lessons, one lesson per day. This will be huge undertaking, and might take long period to finish all the topics. But, once finalized, it will represent an ultimate C# guide for any developer.
+This repository is created to support that idea, and should offer a collection of resources, tutorials and project samples for each corresponding topic. We plan to divide the material into 100 lessons, one lesson per day. This will be a huge undertaking, and might take longer period to finish all the topics. But, once finalized, it will represent an ultimate C# guide for any developer.
 
 The intention is to create a project which will be maintained by the community itself, and any contribution is more than welcome. If you feel for collaborating in the project, please contact us, and we'll be happy to send you and invitation.
 
 
 ## List of content
 
-As mentioned, the material is categorized into 100 lessons/topics. In order to keep it simpler for the new developers, each lesson will be placed into a separate folder. Each lesson will contain its own solution with corresponding projects. Each folder will contain its own `Readme.md` with detailed elaboration of the topic, and references to various resources (books, tutorials, blog posts/articles, YouTube videos etc.).
+As mentioned, the material is categorized into 100 lessons/topics. In order to keep it simple for the new developers, each lesson will be placed into a separate folder. Each lesson will contain its own solution with corresponding projects. Each folder will contain its own `Readme.md` with detailed elaboration of the topic, and references to various resources (books, tutorials, blog posts/articles, YouTube videos etc.).
 
 (The list of content is still in the making, and any suggestion is welcome)
 
