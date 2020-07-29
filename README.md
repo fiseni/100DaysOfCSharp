@@ -1,6 +1,6 @@
 # 100DaysOfCSharp
 
-This is intended to be an open-source learning platform for everyone who wants to master C#. The idea is born from the twitter community, and the `#100DaysOfCode` initiative. Since the initiative became focused mostly on front-end and JavaScript, we wanted to create its alternative for the .NET (C# specifically). The `#100DaysOfCode` hashtag would be a meeting point for all developers (newbie or not) who want to share knowledge, tips, resources or information about their journey in mastering C#.
+This is intended to be an open-source learning platform for everyone who wants to master C#. The idea is born from the twitter community, and the `#100DaysOfCode` initiative. Since the initiative became focused mostly on front-end and JavaScript, we wanted to create its alternative for the .NET (C# specifically). The `#100DaysOfCSharp` hashtag would be a meeting point for all developers (newbie or not) who want to share knowledge, tips, resources or information about their journey in mastering C#.
 
 This repository is created to support that idea, and should offer a collection of resources, tutorials and project samples for each corresponding topic. We plan to divide the material into 100 lessons, one lesson per day. This will be a huge undertaking, and might take longer period to finish all the topics. But, once finalized, it will represent an ultimate C# guide for any developer.
 
