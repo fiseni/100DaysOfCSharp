@@ -4,8 +4,8 @@ This is intended to be an open-source learning platform for everyone who wants t
 
 This repository is created to support that idea, and should offer a collection of resources, tutorials and project samples for each corresponding topic. We plan to divide the material into 100 lessons, one lesson per day. This will be a huge undertaking, and might take longer period to finish all the topics. But, once finalized, it will represent an ultimate C# guide for any developer.
 
-The intention is to create a project which will be maintained by the community itself, and any contribution is more than welcome. If you feel for collaborating in the project, please contact us, and we'll be happy to send you and invitation.
-
+## Give a Star! :star:
+The intention is to create a project which will be maintained by the community itself, and any contribution is more than welcome. If you feel for collaborating in the project, please contact us, and we'll be happy to send you an invitation. If you like the idea, please give it a star, so it can reach larger audience. Thank you!
 
 ## List of content
 
@@ -48,10 +48,10 @@ As mentioned, the material is categorized into 100 lessons/topics. In order to k
 ### Advanced Programming
 
 - Lesson 27 - Generics and Advanced Collections
-- Lesson 28 - Lambda Expressions
-- Lesson 29 - Delegates and Events
-- Lesson 30 - Extension Methods
-- Lesson 31 - Anonymous Types
+- Lesson 28 - Anonymous Types and Methods
+- Lesson 29 - Lambda Expressions
+- Lesson 30 - Delegates and Events
+- Lesson 31 - Extension Methods
 - Lesson 32 - LINQ (Part 1)
 - Lesson 33 - LINQ (Part 2)
 - Lesson 34 - LINQ (Part 3)
